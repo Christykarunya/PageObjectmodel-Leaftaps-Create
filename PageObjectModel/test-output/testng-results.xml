@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="47189" started-at="2021-11-14T18:36:43 IST" finished-at="2021-11-14T18:37:30 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="47189" started-at="2021-11-14T18:36:43 IST" finished-at="2021-11-14T18:37:30 IST">
+      <class name="testcase.CreateLead">
+        <test-method status="PASS" signature="setValue()[pri:0, instance:testcase.CreateLead@6166e06f]" name="setValue" is-config="true" duration-ms="26" started-at="2021-11-14T18:36:43 IST" finished-at="2021-11-14T18:36:43 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setValue -->
+        <test-method status="PASS" signature="preCondition(java.lang.String)[pri:0, instance:testcase.CreateLead@6166e06f]" name="preCondition" is-config="true" duration-ms="12011" started-at="2021-11-14T18:36:44 IST" finished-at="2021-11-14T18:36:56 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preCondition -->
+        <test-method status="PASS" signature="runCreateLead(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testcase.CreateLead@6166e06f]" name="runCreateLead" duration-ms="6798" started-at="2021-11-14T18:36:56 IST" data-provider="provideData" finished-at="2021-11-14T18:37:03 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[EN]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Demosalesmanager]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[crmsfa]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Qeagle]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Hari]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[R]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runCreateLead -->
+        <test-method status="PASS" signature="postCondition()[pri:0, instance:testcase.CreateLead@6166e06f]" name="postCondition" is-config="true" duration-ms="1434" started-at="2021-11-14T18:37:03 IST" finished-at="2021-11-14T18:37:04 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postCondition -->
+        <test-method status="PASS" signature="preCondition(java.lang.String)[pri:0, instance:testcase.CreateLead@6166e06f]" name="preCondition" is-config="true" duration-ms="5238" started-at="2021-11-14T18:37:04 IST" finished-at="2021-11-14T18:37:09 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preCondition -->
+        <test-method status="PASS" signature="runCreateLead(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testcase.CreateLead@6166e06f]" name="runCreateLead" duration-ms="6689" started-at="2021-11-14T18:37:09 IST" data-provider="provideData" finished-at="2021-11-14T18:37:16 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[FR]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[DemoCSR2]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[crmsfa]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[TestLeaf]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Arvind]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[R]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runCreateLead -->
+        <test-method status="PASS" signature="postCondition()[pri:0, instance:testcase.CreateLead@6166e06f]" name="postCondition" is-config="true" duration-ms="1306" started-at="2021-11-14T18:37:16 IST" finished-at="2021-11-14T18:37:17 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postCondition -->
+        <test-method status="PASS" signature="preCondition(java.lang.String)[pri:0, instance:testcase.CreateLead@6166e06f]" name="preCondition" is-config="true" duration-ms="5225" started-at="2021-11-14T18:37:17 IST" finished-at="2021-11-14T18:37:23 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preCondition -->
+        <test-method status="PASS" signature="runCreateLead(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testcase.CreateLead@6166e06f]" name="runCreateLead" duration-ms="6377" started-at="2021-11-14T18:37:23 IST" data-provider="provideData" finished-at="2021-11-14T18:37:29 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[DU]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[DemoCSR]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[crmsfa]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Testleaf]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Sheriba]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[T]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runCreateLead -->
+        <test-method status="PASS" signature="postCondition()[pri:0, instance:testcase.CreateLead@6166e06f]" name="postCondition" is-config="true" duration-ms="1165" started-at="2021-11-14T18:37:29 IST" finished-at="2021-11-14T18:37:30 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postCondition -->
+      </class> <!-- testcase.CreateLead -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
